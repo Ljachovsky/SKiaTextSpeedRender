@@ -1,0 +1,14 @@
+C:\Users\alex\source\repos\snake\snake\snake\bin\Release\netstandard2.0\snake.deps.json
+C:\Users\alex\source\repos\snake\snake\snake\bin\Release\netstandard2.0\snake.dll
+C:\Users\alex\source\repos\snake\snake\snake\bin\Release\netstandard2.0\ref\snake.dll
+C:\Users\alex\source\repos\snake\snake\snake\bin\Release\netstandard2.0\snake.pdb
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\snake.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\snake.AssemblyInfo.cs
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\snake.dll
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\ref\snake.dll
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\snake.pdb
+C:\Users\alex\source\repos\snake\snake\snake\obj\Release\netstandard2.0\snake.csprojAssemblyReference.cache
